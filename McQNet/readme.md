@@ -10,7 +10,7 @@
 
 # Architecture of our proposed Network
 
-![image-20231016210225341](./McQNet/pictures/1.png)
+![image-20231016210225341](McQNet/pictures/1.png)
 
 > The network is composed of three main parts, including the feature extractor module, the support-based query interaction module (SQIM), and the meta-contrastive module (MCM). Among them, SQIM and MCM are the core of the proposed method. Indeed, SQIM mines latent knowledge by interacting with query features and support features. MCM enhances the model's learning ability to perform fine-grained few-shot tasks by incorporating the concept of contrastive learning.
 
